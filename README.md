@@ -11,7 +11,7 @@ Para excutar o docker (apartir da segunda vez) usar o seguinte comando: sudo doc
 ```
 sudo docker ps -a 
 ```
-
+#
 
 > Runs image
 ```

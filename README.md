@@ -7,12 +7,14 @@ Para excutar o docker (apartir da segunda vez) usar o seguinte comando: sudo doc
 
 ### Comandos do monogo
 
+> Shows all docker images installed
 ```
 sudo docker ps -a 
 ```
-> Shows all docker images installed
 
+
+> Runs image
 ```
 sudo docker run [image_id]
 ```
-> Runs image
+
